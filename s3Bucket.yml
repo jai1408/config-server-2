@@ -1,4 +1,2 @@
 s3Bucket:
-  name: jaiaws101-buckets
-  accessKey: AKIAQLSVVNYRNBVMICG
-  secretKey: tJMi+e9UUQU7obfT5vnMiEgrEHgrfxTqzC01FU1
+  name: jaiaws101-bucket-test
